@@ -21,3 +21,9 @@ Nosso objetivo é capacitar pequenos negócios com soluções tecnológicas inte
 - **HTML**
 - **CSS**
 - **JavaScript**
+
+### Contato
+
+- **Instagram**: https://www.instagram.com/bahapps
+- **Linkedin**: https://www.linkedin.com/company/bahapp/
+- **E-mail**: [contato@bahapp.com.br](mailto:contato@bahapp.com.br)
