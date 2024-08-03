@@ -1,4 +1,4 @@
-# BahApp 
+# BahApp 📲
 
 ![BahApp](https://github.com/RafaelCecchin/bahapp/blob/master/assets/images/screenshot.png?raw=true)
 
