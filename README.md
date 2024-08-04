@@ -4,11 +4,19 @@
 
 ## Aplicativos Inteligentes Para Negócios Inovadores
 
-A **BahApp** é uma empresa idealizada com o objetivo de desenvolver aplicativos para pequenos negócios com um preço acessível na região do Vale do Iguaçu.
+A **BahApp** é uma empresa idealizada com o objetivo de desenvolver aplicativos para pequenos negócios na região do Vale do Iguaçu.
 
 ### Objetivo
 
-Nosso objetivo é capacitar pequenos negócios com soluções tecnológicas inteligentes, proporcionando ferramentas eficientes para alavancar seu crescimento e inovar no mercado.
+O objetivo da empresa é capacitar pequenos negócios com soluções tecnológicas inteligentes, proporcionando ferramentas eficientes para alavancar seu crescimento e inovar no mercado.
+
+### Contato
+
+- **Instagram**: https://www.instagram.com/bahapps
+- **Linkedin**: https://www.linkedin.com/company/bahapp/
+- **E-mail**: [contato@bahapp.com.br](mailto:contato@bahapp.com.br)
+
+## Sobre o site
 
 ### Funcionalidades
 
@@ -21,9 +29,3 @@ Nosso objetivo é capacitar pequenos negócios com soluções tecnológicas inte
 - **HTML**
 - **CSS**
 - **JavaScript**
-
-### Contato
-
-- **Instagram**: https://www.instagram.com/bahapps
-- **Linkedin**: https://www.linkedin.com/company/bahapp/
-- **E-mail**: [contato@bahapp.com.br](mailto:contato@bahapp.com.br)
